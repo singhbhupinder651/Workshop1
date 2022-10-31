@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\bin\Debug\net6.0\ImplementInterface.exe
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\bin\Debug\net6.0\ImplementInterface.deps.json
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\bin\Debug\net6.0\ImplementInterface.runtimeconfig.json
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\bin\Debug\net6.0\ImplementInterface.dll
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\bin\Debug\net6.0\ImplementInterface.pdb
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.dll
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\refint\ImplementInterface.dll
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.pdb
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ImplementInterface.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ImplementInterface\ImplementInterface\obj\Debug\net6.0\ref\ImplementInterface.dll
